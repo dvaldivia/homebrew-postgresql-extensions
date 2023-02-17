@@ -1,8 +1,8 @@
 class PgCron < Formula
   desc "Cron-based job scheduler for PostgreSQL 10+"
   homepage "https://github.com/citusdata/pg_cron#readme"
-  url "https://github.com/citusdata/pg_cron/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "42dfbd3092f690c5e79286d5df4bd4f81917b59c0e26dafce1d7e5e9cbe5953e"
+  url "https://github.com/citusdata/pg_cron/archive/refs/tags/v1.5.1.tar.gz"
+  sha256 "45bb16481b7baab5d21dfa399b7bfa903dd334ff45a644ae81506a1ec0be0188"
   license "PostgreSQL"
 
   depends_on "postgresql"
